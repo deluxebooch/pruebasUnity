@@ -74,7 +74,6 @@ public class PlayerController : MonoBehaviour
             jump = false;
         }
 
-        Debug.Log(rb2d.velocity.x);
     }
     void OnBecameInvisible()
     {
